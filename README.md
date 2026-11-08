@@ -1,5 +1,7 @@
 # Medir MCP
 
+> **Este guia mudou de casa.** Agora ele fica no [Kit IA](https://github.com/felipeoliveira-ai/kit-ia/tree/main/medir-mcp), junto com os guias dos outros vídeos. Esta página continua no ar, mas as atualizações vão para lá.
+
 Quanto cada MCP ocupa na memória do seu agente de IA? E como ligar o servidor da Cloudflare do jeito que gasta menos.
 
 Teste feito em 03/11/2026, numa conta real da Cloudflare, com o script deste repositório:
